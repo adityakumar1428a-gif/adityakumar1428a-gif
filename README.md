@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there 👋 I'm Aditya Kumar
 
-<!--
-**adityakumar1428a-gif/adityakumar1428a-gif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I'm currently working on BCA College Assignments & Web Projects
+- 🌱 I'm currently learning JavaScript, Web Development and AI
+- 👯 I'm looking to collaborate on Open Source and HTML/CSS/JS Projects  
+- 🤝 I'm looking for help with Advanced Backend Development
+- 💬 Ask me about HTML, CSS, BCA Subjects
+- 📫 How to reach me: adityakumar1428a-gif on GitHub
+- ⚡ Fun fact: Got 60 contributions in just 2 weeks!
+### 📊 My GitHub Stats
 
-Here are some ideas to get you started:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adityakumar1428a-gif&show_icons=true&theme=tokyonight)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=adityakumar1428a-gif&theme=tokyonight)
