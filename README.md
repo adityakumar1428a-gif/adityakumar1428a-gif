@@ -18,12 +18,10 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ### 📊 My GitHub Stats
+[Aditya's Stats](https://github-readme-stats.vercel.app/api?username=adityakumar1428a-gif&show_icons=true&theme=radical)
+[Streak](https://streak-stats.demolab.com/?user=adityakumar1428a-gif&theme=radical)
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityakumar1428a-gif&layout=compact&theme=radical)
 
-![Aditya's Stats](https://github-readme-stats.vercel.app/api?username=adityakumar1428a-gif&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=adityakumar1428a-gif&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityakumar1428a-gif&layout=compact&theme=tokyonight&hide_border=true)
 
 ### 👀 Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=adityakumar1428a-gif&color=blueviolet&style=flat-square&label=Profile+Views)
